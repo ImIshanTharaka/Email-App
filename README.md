@@ -8,6 +8,9 @@ Email web app for sending and receiving emails
 * Users are allowed to archive and unarchive emails that they have received
 
 ## What I learned
-* Using Javascript manipulate the HTML DOM content
-* Development of single page web application
+* Use Javascript to manipulate the HTML DOM content
+* Development of single page web applications using Javascript
 * Working with JSON APIs
+* Use Django to create the backend of a website
+* Manage a SQLite database using Django 
+* Use Bootstrap to create a front end for a website
